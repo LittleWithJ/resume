@@ -1,4 +1,4 @@
-<h1 align="center">阿杆的Markdown简历模板</h1>
+<h1 align="center">Markdown简历模板</h1>
 
 <div align="center">
 
